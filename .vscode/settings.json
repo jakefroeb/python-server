@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "/Users/jakefroeb/.local/share/virtualenvs/python-server-X4tvV2QD/bin/python",
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Python Kennels",
+            "database": "kennel.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
